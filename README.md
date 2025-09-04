@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @builtlikeadollar
-- 👀 I’m interested in coding, 3d animation, 2d animation, and game design
-- 🌱 I’m currently learning coding (javascript)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord
+- 👋 Hi, I’m @stelex
+- 👀 I’m interested in coding, marketing 
+- 🌱 I’m currently learning coding (javascript html and css)
+- 💞️ I’m looking to collaborate on my company (stelex
+- 📫 How to reach me discord, redit, X, and instagram
 - 😄 Pronouns: man
 - ⚡ Fun fact: ...
 
